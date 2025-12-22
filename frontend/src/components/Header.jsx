@@ -79,8 +79,8 @@ const Header = () => {
           whileTap={{ scale: 0.95 }}
         >
           <img
-            src="/assets/masterpieces/gold-iconn.ico"
-            alt="Gold Icon"
+            src="/assets/masterpieces/gold-logo.png"
+            alt="HASKASA Logo"
             style={{
               height: '32px',
               width: 'auto',
